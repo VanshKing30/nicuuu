@@ -12,6 +12,6 @@ int main() {
 
     }
     else{
-        cout << " I am not noob" << endl ; 
+        cout << " I am not noob and pervert as weel " << endl ; 
     }
 }
