@@ -12,6 +12,7 @@ int main() {
 
     }
     else{
-        cout << " I am not noob and pervert as weel " << endl ; 
+        cout << " I am not noob and pervert as weell  " << endl ;
+        cout << " I have started using git and github " << endl ;  
     }
 }
